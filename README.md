@@ -4,5 +4,9 @@ Combines Higher dimensional Tic Tac Toe and evolutionary deep learning (also kno
 # Todo:
 - optimize the reward function, make cost per move follow an exponential curve
 - have  exploration build into mutations, decrease it over time
+
+
+Features:
 - unity pyhton integration.
-- Solve deterministic problem when 2 agents are fighting each other
+- evolutionary deep learning
+- Generalizable to any n x n x n shape.
